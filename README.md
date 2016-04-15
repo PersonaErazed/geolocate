@@ -67,7 +67,7 @@ _timestamps.dat_
 
 
 ### Usage
->_java Geolocate known_coords.dat timestamps.dat_
+>_$ java Geolocate known_coords.dat timestamps.dat_
 
 ---
 ## Method
