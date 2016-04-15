@@ -44,5 +44,6 @@ After finishing this program I will write another program to create a list of ti
 _Remarks_
 * timestamps uniquely identify photos taken from the same camera, so it is not neccessary for this program to identify the photos name (or other atribute) with the timestamp.
 * even if the photos are taken from multiple it is likely very few photos are likely to have the same timestamp done to the second.
+
 ---
 ## Method
