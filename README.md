@@ -4,9 +4,14 @@ Geolocation a list of times given a list of location-time coordinates. A piece o
 ## Example: Appalachian Trail
 Started the hike at [Springer Mount Georgia](http://www.openstreetmap.org/node/358771759) on April 1, 2015.
 
-* From openstreetmap I find Springer Mt. is located at 34.6273 degrees North and 84.1935 degrees West.
-* From the timestamp in the metadata of the first picture taken I find the hike started on April 1, 2015 at 8:04 AM
+* From [openstreetmap.org](http://www.openstreetmap.org/#map=3/27.45/-21.62) we find Springer Mt. is located at 34.6273 degrees North of the [equator](https://en.wikipedia.org/wiki/Equator) and 84.1935 degrees West of [prime meridian](https://en.wikipedia.org/wiki/Prime_meridian).
+* From the timestamp in the metadata of the first picture taken we find the hike started on April 1, 2015 at 8:04 AM
 
+The hike ended at [Mt. Katahdin Maine](http://www.openstreetmap.org/node/358226210)
+* Again using opensreetmap.org we find Mt. Katahdin is located at 45.9031 degrees North and 68.9190 degrees West.
+*
+
+cation: 45.9030801, -68.9190258
 
 | Coordinates | Date  |
 | --- | --- |
