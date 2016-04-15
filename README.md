@@ -1,6 +1,6 @@
 #geolocate
 Geolocation a list of times given a list of location-time coordinates. A piece of software to help me gps tag photos from a trip.
-
+___
 ## Example: Appalachian Trail
 ### Preparing your data
 Started the hike at [Springer Mount Georgia](http://www.openstreetmap.org/node/358771759) on April 1, 2015.
