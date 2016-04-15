@@ -19,3 +19,5 @@ We summerize this data in a table as follows using the International Organizatio
 | +45.9031-068.1935/ | 2015-10-12T16:02.55-05:00 |
 
 The data in the table is what in the description is refered to as a _list of known location-time coordinates_.
+
+**There must be at least two known location-time coordinates** i.e. the beginning and end.
