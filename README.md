@@ -3,6 +3,7 @@ Geolocation a list of times given a list of location-time coordinates. A piece o
 
 #input
 Data given
+
 | LatLng | Date  |
 | --- | --- |
 | +34.6273-084.1935 | 2016-04-01T08:04.20-05:00 |
