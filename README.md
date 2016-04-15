@@ -30,7 +30,7 @@ Now, let us consider the photos we want to identify with a location.
 We need a list of all the timestamps for the photos during the hike you wish to associate with a location.
 
 | photo |
-| --- |
+|:---:|
 | 2015-04-01T08:04.20-05:00 |
 | 2015-04-01T08:04.32-05:00 |
 | 2015-04-01T08:23.20-05:00 |
