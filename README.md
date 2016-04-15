@@ -36,5 +36,5 @@ We need a list of all the timestamps for the photos during the hike you wish to 
 | 2015-04-01T08:23.20-05:00 |
 | 2015-04-01T10:14.24-05:00 |
 | 2015-04-02T06:44.04-05:00 |
-| .. |
+| ..... |
 | 2015-10-12T16:02.55-05:00 |
