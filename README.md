@@ -2,8 +2,8 @@
 Geolocation a list of times given a list of location-time coordinates. A piece of software to help me gps tag photos from a trip.
 
 #input
-coord.dat
-lat lng date time
-34.64 -84.19 04/01/15 08:04:20
-....
-45.90 -68.92 10/12/15 16:02:55 
+Data given
+|Latitude|Longitude|Date (ISO-8601)|
+|---|---|---|
+|34.6273|-84.1935|2016-04-01T08:04.20-05:00|
+|45.9031|-68.1935|2016-10-12T16:02.55-05:00|
