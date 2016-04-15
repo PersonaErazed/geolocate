@@ -11,7 +11,7 @@ The hike ended at [Mt. Katahdin Maine](http://www.openstreetmap.org/node/3582262
 * Again using [openstreetmap.org](http://www.openstreetmap.org/#map=3/27.45/-21.62) we find Mt. Katahdin is located at 45.9031 degrees North of the equator and 68.9190 degrees West of the prime meridian.
 * From the timestamp of last hiking photo we find the hike end on October 12, 2015 at 4:02 PM Eastern Daylight Time.
 
-We summerize this data in a table as follows using the International Organization for Standardization specifications for formats of Latitude-Longitude coordinate, see [ISO 6709](https://www.w3.org/2005/Incubator/geo/Wiki/LatitudeLongitudeAltitude.html), and date-time formats see [ISO 8601](https://www.w3.org/TR/NOTE-datetime)
+We summerize this data in a table as follows using the International Organization for Standardization specifications for formats of Latitude-Longitude coordinate [ISO 6709](https://www.w3.org/2005/Incubator/geo/Wiki/LatitudeLongitudeAltitude.html) and date-time format [ISO 8601](https://www.w3.org/TR/NOTE-datetime).
 
 | Coordinates | Date  |
 | --- | --- |
