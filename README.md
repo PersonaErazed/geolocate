@@ -2,7 +2,7 @@
 Geolocation a list of times given a list of location-time coordinates. A piece of software to help me gps tag photos from a trip.
 
 ## Example: Appalachian Trail
-Started the hike at (Springer Mount Georgia)[http://www.openstreetmap.org/node/358771759]
+Started the hike at [Springer Mount Georgia](http://www.openstreetmap.org/node/358771759)
 Peak Springer Mountain, Fannin County, Georgia, United States of America
 34.6273 degrees North and 84.1935 degrees West
 on April 1, 2015 at 8:04 AM
