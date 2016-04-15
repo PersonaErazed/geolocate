@@ -1,6 +1,6 @@
 #geolocate
 Geolocation a list of times given a list of location-time coordinates. A piece of software to help me gps tag photos from a trip.
-___
+---
 ## Example: Appalachian Trail
 ### Preparing your data
 Started the hike at [Springer Mount Georgia](http://www.openstreetmap.org/node/358771759) on April 1, 2015.
@@ -22,3 +22,5 @@ We summerize this data in a table as follows using the International Organizatio
 The data in the table is what in the description is refered to as a _list of known location-time coordinates_.
 
 **There must be at least two known location-time coordinates** i.e. the beginning and end.
+
+####Now let us consider the photos we want to identify with a location.
