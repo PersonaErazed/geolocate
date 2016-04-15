@@ -23,6 +23,7 @@ We summerize this data in a table as follows using the International Organizatio
 Remarks
 * The data in the table is what in the description is refered to as a _list of known location-time coordinates_.
 * **There must be at least two known location-time coordinates** i.e. the beginning and end.
-* More known coordinates will improve the accuracy of identifing the location of each photo. Note with this example two point yeilds a very resonable accuracy for a standard thru hike.
+* More known coordinates will improve the accuracy of identifing the location of each photo. Note in this example two point yeilds a very resonable accuracy for a continuous thru hike.
+* To improve accuracy consider added known points where time was spend off trail (start and stop) or where/when you flipped, etc.
 
 Now, let us consider the photos we want to identify with a location.
