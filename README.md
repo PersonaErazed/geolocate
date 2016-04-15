@@ -64,7 +64,8 @@ _timestamps.dat_
 > 2015-04-02T06:44.04-05:00
 
 > 2015-10-12T16:02.55-05:00
-
+### Usage
+>_java Geolocate known_coords.dat timestamps.dat_
 
 ---
 ## Method
