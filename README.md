@@ -24,4 +24,4 @@ The data in the table is what in the description is refered to as a _list of kno
 
 **There must be at least two known location-time coordinates** i.e. the beginning and end.
 
-####Now let us consider the photos we want to identify with a location.
+Now let us consider the photos we want to identify with a location.
