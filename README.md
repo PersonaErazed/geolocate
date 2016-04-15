@@ -20,7 +20,7 @@ We summerize this data in a table as follows using the International Organizatio
 | +34.6273-084.1935/ | 2015-04-01T08:04.20-05:00 |
 | +45.9031-068.1935/ | 2015-10-12T16:02.55-05:00 |
 
-Remarks
+_Remarks_
 * The data in the table is what in the description is refered to as a _list of known location-time coordinates_.
 * **There must be at least two known location-time coordinates** i.e. the beginning and end.
 * More known coordinates will improve the accuracy of identifing the location of each photo. Note in this example two point yeilds a very resonable accuracy for a continuous thru hike.
@@ -29,7 +29,7 @@ Remarks
 **Now**, let us consider the photos we want to identify with a location.
 We need a list of all the timestamps for the photos during the hike you wish to associate with a location.
 
-| photo |
+| timestamp of photo |
 |:---:|
 | 2015-04-01T08:04.20-05:00 |
 | 2015-04-01T08:04.32-05:00 |
@@ -38,3 +38,9 @@ We need a list of all the timestamps for the photos during the hike you wish to 
 | 2015-04-02T06:44.04-05:00 |
 | . . . |
 | 2015-10-12T16:02.55-05:00 |
+
+After finishing this program I will write another program to create a list of timestamps given a list of files.
+
+_Remarks_
+* timestamps uniquely identify photos taken from the same camera, so it is not neccessary for this program to identify the photos name (or other atribute) with the timestamp.
+* even if the photos are taken from multiple it is likely very few photos are likely to have the same timestamp done to the second.
