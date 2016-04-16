@@ -75,7 +75,7 @@ _timestamps.dat_
 Given two points on a sphere the shortest path is a [great circle](https://en.wikipedia.org/wiki/Great_circle). Instead of parametrizing a great circle that goes through two given points, this program will use the [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) between those points. **So do not have successive points that are too far apart like north pole to equator**.
 
 _aside_
-The arc length from two points on a circle with angle _x_ is _r*x_ if _x_ is in units of
+The arc length from two points on a circle with angle _x_ and radius _r_ (for the earth 3959 miles) is _r*x_ if _x_ is in units of
 radians.
 The lenght of a cord between the same two points is _r*2*sin(x/2)_
 
