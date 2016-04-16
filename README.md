@@ -73,7 +73,7 @@ _timestamps.dat_
 ## Approximation Method
 ### Constant speed
 Assume between successive points traveling at a constant speed. Let _p_1,...,p_n_ be the
-known location-time points. Each point _p_i=(x_i,t_i)_ has a location and time. Then there are _n-1_ sections each section _p_{i-1}_ to _p_i_ has speed _(x_i-x_{i-1})/(t_i-t_{i-1})_
+known location-time points. Each point _p_i=(x_i,t_i)_ has a location and time. Then there are _n-1_ sections each section _p_{i-1}_ to _p_i_ has speed _( x_i-x_{i-1} ) / ( t_i-t_{i-1} )_
 
 ### The Earth is Flat!(ish)
 Given two points on a sphere the shortest path is a [great circle](https://en.wikipedia.org/wiki/Great_circle). Instead of parametrizing a great circle that goes through two given points, this program will use the [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) between those points. **So do not have successive points that are too far apart, like north pole to equator which is about 6,000 miles**.
