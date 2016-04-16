@@ -79,6 +79,5 @@ The arc length from two points on a circle with angle _x_ is _r*x_ if _x_ is in 
 radians.
 The lenght of a cord between the same two points is _r*2*sin(x/2)_
 
-Therefore the ratio of arclength to cord length is given by _(1/2)*x/sin(x/2)_. Note for
-small angles _sin(x/2)=x/2_ and the ratio would be approximately _1_. If we consider the difference _d=r*x-r*2*sin(x/2)~r*(x-2*(x/2-(x/2)^3/6))=r*(x^3)/24<10_ miles then
+If we consider the difference _d=r*x-r*2*sin(x/2)~r*(x-2*(x/2-(x/2)^3/6))=r*(x^3)/24<10_ miles then
 _x~<.39_ and the distance between points should be below _1500_ miles.
