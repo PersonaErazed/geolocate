@@ -82,9 +82,9 @@ Given two points on a sphere the shortest path is a [great circle](https://en.wi
 #### Technical Detials: use of cord
 The arc length from two points on a circle with angle _x_ and radius _r_, for earth _r=3959_ miles) is _r*x_ if _x_ is in units of
 radians.
-The lenght of a cord between the same two points is _r*2*sin(x/2)_
+The lenght of a cord between the same two points is _r.2.sin(x/2)_
 
-If we consider the difference _d=r*x-r*2*sin(x/2)_ using the approximation for _sin_ we get the distance to be about_d~r*(x-2*(x/2-(x/2)^3/6))=r*(x^3)/24_. If we want
+If we consider the difference _d=r*x-r*2*sin(x/2)_ using the approximation for _sin_ we get the distance to be about_d~r.(x-2.(x/2-(x/2)^3/6))=r.(x^3)/24_. If we want
 our photos to be about accurate to two miles then we need our angle between successive points to be
 _x~<.23_ radians and the distance between points should be below _900_ miles. 
 
@@ -94,7 +94,7 @@ the distance between points is less then _900_ miles.**
 
 ---
 ### Calculation
-p=(x,y,z)=( r * cos( \phi ) * cos( \lambda ), r * cos( \phi ) * sin( \lambda ), r * sin( \phi ) )
+p=(x,y,z)=( r.cos( \phi ).cos( \lambda ), r.cos( \phi ).sin( \lambda ), r.sin( \phi ) )
 
 ## Improvements
 * Assume walking only during daylight hours.
