@@ -93,5 +93,8 @@ To check that our approximation of _sin_ is justified calculate _sin(.23/2)=.114
 the distance between points is less then _900_ miles.**
 
 ---
+### Calculation
+p=(x,y,z)=(r*cos(\phi)*cos(\lambda),r*cos(\phi)*sin(\lambda),r*sin(\phi)
+
 ## Improvements
 * Assume walking only during daylight hours.
