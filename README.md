@@ -89,3 +89,5 @@ To check that our approximation of _sin_ is justified calculate _sin(.23/2)=.114
 the distance between points is less then _900_ miles.**
 
 ---
+## Improvements
+* Assume walking only during daylight hours.
