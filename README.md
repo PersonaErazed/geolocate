@@ -70,4 +70,6 @@ _timestamps.dat_
 >_$ java Geolocate known_coords.dat timestamps.dat_
 
 ---
-## Method
+## Approximation Method
+### The Earth is Flat!(ish)
+Given two points on a sphere the shortest path is a [great circle](https://en.wikipedia.org/wiki/Great_circle). Instead of parametrizing a great circle that goes through two point by time, this program will use the [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) between those points. *So do not use points too far apart like north pole to equator*.
