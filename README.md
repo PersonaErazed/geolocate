@@ -72,7 +72,7 @@ _timestamps.dat_
 ---
 ## Approximation Method
 ### The Earth is Flat!(ish)
-Given two points on a sphere the shortest path is a [great circle](https://en.wikipedia.org/wiki/Great_circle). Instead of parametrizing a great circle that goes through two given points, this program will use the [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) between those points. **So do not have successive points that are too far apart like north pole to equator (about 6,000 miles)**.
+Given two points on a sphere the shortest path is a [great circle](https://en.wikipedia.org/wiki/Great_circle). Instead of parametrizing a great circle that goes through two given points, this program will use the [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) between those points. **So do not have successive points that are too far apart, like north pole to equator which is about 6,000 miles**.
 
 ---
 #### Technical Detials: use of cord
