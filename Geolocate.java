@@ -21,13 +21,20 @@ public class Geolocate {
 
     //ArrayList<> tuple?? location and time maybe a string +34.6273-084.1935/2015-04-01T08:04:20
     // make a new class GeoCoordinate or find one on github
-    ArrayList<String> coords = new ArrayList<String>();
+    ArrayList<Double> latitudes = new ArrayList<Double>();
+    ArrayList<Double> longitudes = new ArrayList<Double>();
+    ArrayList<LocalDateTime> times = new ArrayList<LocalDateTime>();
     try{
       buffer = new BufferedReader(new FileReader("coords.dat"));
+      while ((line=buffer.readLine()) != null) {
+        System.out.println("Latitude:"+line.substring(0,8));
+        System.out.println("Longitude:"+line.substring(8,17));
+        System.out.println("DateTime:"+line.substring(18));
+      }
     }
     catch(Exception e) { e.printStackTrace(); }
     finally { if (buffer != null) { buffer.close(); } }
     
-    for(LocalDateTime t:timestamps){System.out.println(t.toString());}
+//    for(LocalDateTime t:timestamps){System.out.println(t.toString());}
   }
 }
